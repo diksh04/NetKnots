@@ -1,4 +1,4 @@
-<h3> Netknots, a full stack project that is a cutting-edge web application that combines the best features of popular platforms like Twitter and Threads, catering to a diverse user base. This project report provides an in-depth analysis of Netknots, shedding light on its conception, development, and potential impact on the digital landscape. Netknots represents an innovative approach to social media and communication, blending the best elements of existing platforms with novel features that encourage meaningful interactions. </h3>
+<h3> Netknots is a full stack project that is a cutting-edge web application that combines the best features of popular platforms like Twitter and Threads, catering to a diverse user base. This project report provides an in-depth analysis of Netknots, shedding light on its conception, development, and potential impact on the digital landscape. Netknots represents an innovative approach to social media and communication, blending the best elements of existing platforms with novel features that encourage meaningful interactions. </h3>
 
 Technologies used: Next Js, Clerk for user authentication, MongoDB, Typescript,shadcn,uploadThing
 
